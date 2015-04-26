@@ -1,0 +1,10 @@
+/bower_components/*
+/.sass-cache/*
+*.DS_Store
+/stylesheets/*
+<<<<<<< HEAD
+
+*.swp
+*.swo
+=======
+>>>>>>> 20551592974491fc6360712f5b8efec85ae5aae7

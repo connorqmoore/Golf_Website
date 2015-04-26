@@ -7,7 +7,11 @@
     <link rel="stylesheet" href="stylesheets/app.css" />
     <link rel="stylesheet" href="stylesheets/other.css" />
     <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<<<<<<< HEAD
     <script src="js/jquery.scrollTo.min.js"></script>
+=======
+    <script src="js/jquery-scrollto.js"></script>
+>>>>>>> 20551592974491fc6360712f5b8efec85ae5aae7
     <script src="bower_components/modernizr/modernizr.js"></script>
     <script src="js/app.js"></script>
   </head>

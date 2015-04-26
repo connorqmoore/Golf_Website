@@ -3,15 +3,30 @@
 // $(document).foundation();
 $(document).ready(function() {
   $("#a_about").click(function( event ) {
+<<<<<<< HEAD
     $(window).scrollTo('#about', 800);
+    // $('#about').scrollTo();
   });
 
   $("#a_products").click(function( event ) {
     $(window).scrollTo('#products', 800);
+    // $('#products').scrollTo();
   });
 
   $("#a_contact").click(function( event ) {
     $(window).scrollTo('#contact', 800);
+    // $('#contact').scrollTo();
+=======
+    $('#about').ScrollTo();
+  });
+
+  $("#a_products").click(function( event ) {
+    $('#products').ScrollTo();
+  });
+
+  $("#a_contact").click(function( event ) {
+    $('#contact').ScrollTo();
+>>>>>>> 20551592974491fc6360712f5b8efec85ae5aae7
   });
 
 });
